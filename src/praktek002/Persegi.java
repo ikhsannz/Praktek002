@@ -7,8 +7,8 @@ public class Persegi {
 
     public Persegi() {
         sisi=3;
-    }
-    
+    } 
+     
     
     void cetakInfo(){
         System.out.println("+==================+");

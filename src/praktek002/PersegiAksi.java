@@ -10,5 +10,8 @@ public class PersegiAksi {
         p1.cetakInfo();
         System.out.println("Luas Persegi    ="+p1.luasPersegi());
         p1.cetakLuas();
+        
+        Persegi p2 = new Persegi();
+        p2.cetakInfo();
     }
 }
