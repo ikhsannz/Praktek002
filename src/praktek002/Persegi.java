@@ -12,4 +12,9 @@ public class Persegi {
         System.out.println("+==================+");
     }
     
+    double luasPesregi(){
+        double luas;
+        luas =sisi*sisi;
+        return luas; 
+    }
 }
