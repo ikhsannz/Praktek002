@@ -4,6 +4,10 @@ package praktek002;
 
 public class Persegi {
     double sisi;
+
+    public Persegi() {
+        sisi=3;
+    }
     
     
     void cetakInfo(){
