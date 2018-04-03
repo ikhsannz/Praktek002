@@ -13,5 +13,8 @@ public class PersegiAksi {
         
         Persegi p2 = new Persegi();
         p2.cetakInfo();
+        
+        Persegi p3 = new Persegi(2);
+        p3.cetakInfo();
     }
 }

@@ -8,6 +8,10 @@ public class Persegi {
     public Persegi() {
         sisi=3;
     } 
+
+    public Persegi(double sisi) {
+        this.sisi = sisi;
+    }
      
     
     void cetakInfo(){
