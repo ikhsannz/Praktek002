@@ -8,5 +8,7 @@ public class PersegiAksi {
         p1.sisi =5; 
         
         p1.cetakInfo();
+        System.out.println("Luas Persegi    ="+luasPersegi());
+        p1.cetakLuas();
     }
 }
